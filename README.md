@@ -1,8 +1,11 @@
 # Basics
 CS5704 Software Engineering Basics Workshop HW0
 
-Disha Bhan
+### Disha Bhan
 
-Hello World!
+```
+ Hello World!
+```
 
-Completed the standup meeting with Camila
+Completed the standup meeting with:
+### Camila camilaarb@vt.edu
